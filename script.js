@@ -123,10 +123,10 @@ function sendEmail(){
 // get cv 
 
 document.getElementById("downloadButton").addEventListener("click", function() {
-    const resumeUrl = 'assets/SDE-Resume(aman).pdf';
+    const resumeUrl = 'assets/ResumeSDE.pdf';
     const downloadLink = document.createElement("a");
     downloadLink.href = resumeUrl;
-    downloadLink.download = "resume.pdf";
+    downloadLink.download = "Resume.pdf";
     document.body.appendChild(downloadLink);
     downloadLink.click();
     document.body.removeChild(downloadLink);
