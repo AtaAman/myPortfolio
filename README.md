@@ -1,6 +1,6 @@
 Portfolio Website
 
-<a href= "https://ataaman.github.io/myPortfolio/">Check Here</>
+<a href= "https://ataaman.github.io/myPortfolio/">Check Here</a>
 
 This is a portfolio website project that I created using HTML, CSS, and JavaScript. This project represents my personal journey of learning web development and enhancing my skills in HTML, CSS, and JavaScript. The website is designed to be responsive, ensuring it looks great on various devices, from desktops to smartphones.
 
